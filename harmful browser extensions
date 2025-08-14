@@ -1,10 +1,8 @@
-# Task 7: Identify and Remove Suspicious Browser Extensions
+Task 7: Identify and Remove Suspicious Browser Extensions
 
-**Objective:** Learn to spot and remove potentially harmful browser extensions.
+Objective: Learn to spot and remove potentially harmful browser extensions.
 
-**Tools Used:** Google Chrome, Microsoft Edge
-
----
+Tools Used: Google Chrome, Microsoft Edge, Brave
 
 ## Overview
 Some browser extensions, even those available on official web stores, can turn malicious after updates. Cybercriminals can insert harmful code into previously safe extensions, known as **"sleeper agents"**, which later activate to perform malicious actions.
@@ -16,14 +14,11 @@ When activated, these extensions:
 3. Receive potential redirect instructions from a Command & Control (C&C) server.
 4. Automatically redirect the browser if instructed.
 
----
-
 ## Why This Is Dangerous
 Even official web store extensions are not always safe, although they undergo automated and manual safety checks. The risk is even higher when installing extensions from outside official stores.
 
----
-
 ## Known Malicious Extensions to Check For
+List of suspicious extensions
 
 ### Chrome
 - Emoji keyboard online
@@ -46,24 +41,16 @@ Even official web store extensions are not always safe, although they undergo au
 - SearchGPT
 - Unlock Discord
 
----
 
 ## Recommended Actions if Found
-1. **Clear all browsing data** (history, cookies, cache, site data).
-2. **Monitor accounts** for suspicious activity, especially sensitive accounts like online banking.
-3. **Change passwords** for accounts accessed while the extension was installed.
-4. **Enable two-factor authentication (2FA)** for additional security.
-5. **Reset browser settings** to default.
-6. **Watch for suspicious browser behavior** like unexpected redirects or changed search engines.
-7. **Keep browsers and extensions updated** to patch vulnerabilities.
-8. **Run a full system scan** with Malwarebytes to detect and remove infections.
-
----
+1. Clear all browsing data** (history, cookies, cache, site data).
+2. Monitor accounts** for suspicious activity, especially sensitive accounts like online banking.
+3. Change passwords** for accounts accessed while the extension was installed.
+4. Enable two-factor authentication (2FA)** for additional security.
+5. Reset browser settings** to default.
+6. Watch for suspicious browser behavior** like unexpected redirects or changed search engines.
+7. Keep browsers and extensions updated** to patch vulnerabilities.
+8. Run a full system scan** with Malwarebytes to detect and remove infections.
 
 ## Final Advice
 If an extension suddenly requests **new permissions** after an update, carefully review them. If the permissions seem unnecessary for the extension’s function, remove it immediately.
-
----
-
-**Date Completed:** 14 Aug 2025  
-**Submitted by:** [Your Name]
